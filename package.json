@@ -1,0 +1,22 @@
+{
+  "name": "trentprynn.com",
+  "version": "1.0.0",
+  "description": "Trent Prynn's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trentprynn/trentprynn.com.git"
+  },
+  "author": "Trent Prynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trentprynn/trentprynn.com/issues"
+  },
+  "homepage": "https://github.com/trentprynn/trentprynn.com#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
